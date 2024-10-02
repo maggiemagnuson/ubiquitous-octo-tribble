@@ -1,0 +1,12 @@
+{
+   "materials": [
+      {
+         "pbrMetallicRoughness": {
+            "baseColorTexture": {
+               "index": 0,
+               "uri": "javascript:alert('XSS')"
+            }
+         }
+      }
+   ]
+}
