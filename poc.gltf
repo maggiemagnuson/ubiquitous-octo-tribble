@@ -18,6 +18,9 @@
     {
       "skin": 0,
       "mesh": 0,
+      "extras": {
+          "description": "<script>alert('Code Injection!');</script>"
+      },
       "translation": [
         -0.2634244,
         0,
@@ -719,7 +722,7 @@
   ],
   "buffers": [
     {
-      "uri": "javascript:alert('XSS')",
+      "uri": "Elf.bin",
       "byteLength": 403696
     }
   ],
