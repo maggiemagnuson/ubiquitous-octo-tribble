@@ -736,11 +736,7 @@
           1
         ],
         "metallicFactor": 0,
-        "roughnessFactor": 0.450053632,
-        "baseColorTexture": {
-          "index": 0,
-          "uri": "javascript:alert('Injected JS');"
-        }
+        "roughnessFactor": 0.450053632
       },
       "emissiveFactor": [
         0,
@@ -751,10 +747,9 @@
       "name": "01 - Default"
     }
   ],
-  "textures": [
+  "images": [
     {
-      "sampler": 0,
-      "source": 0
+      "uri": "javascript:alert('Image-based XSS');"
     }
   ],
   "skins": [
