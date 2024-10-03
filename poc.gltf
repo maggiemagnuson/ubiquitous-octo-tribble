@@ -751,6 +751,12 @@
       "name": "01 - Default"
     }
   ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ],
   "skins": [
     {
       "inverseBindMatrices": 6,
